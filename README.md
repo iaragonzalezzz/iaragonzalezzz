@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Iara González.
 
-<!--
-**iaragonzalezzz/iaragonzalezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer Jr.
 
-Here are some ideas to get you started:
+🎓 Próxima a graduarme de la Tecnicatura Universitaria en Programación (UTN).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Buenos Aires, Argentina.
+
+## 🚀 Sobre mí
+
+Soy desarrolladora Full Stack Jr. con experiencia en desarrollo web, soporte IT y gestión de plataformas e-commerce.
+
+Actualmente me encuentro finalizando la Tecnicatura Universitaria en Programación y profundizando mis conocimientos en React, Angular, Node.js y bases de datos.
+
+## 🚀 Tech Stack
+
+💙 Frontend: React · Angular · JavaScript · TypeScript
+
+⚙️ Backend: Node.js · Express
+
+🗄️ Bases de datos: MySQL · PostgreSQL · MongoDB
+
+🛠️ Herramientas: Git · GitHub · Postman · Jira
+
+### Otros Lenguajes
+Java • Python • C# • C++
+
+## 📫 Contacto
+
+- LinkedIn: www.linkedin.com/in/iara-gonzález
+- Email: iaragonzalezutn2024@gmail.com
