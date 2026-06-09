@@ -8,22 +8,26 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrolladora Full Stack Jr. con experiencia en desarrollo web, soporte IT y gestión de plataformas e-commerce.
+Soy desarrolladora Full Stack Jr. con experiencia en desarrollo web, soporte IT y plataformas e-commerce.
 
-Actualmente me encuentro finalizando la Tecnicatura Universitaria en Programación y profundizando mis conocimientos en React, Angular, Node.js y bases de datos.
+Me interesa participar en proyectos que me permitan seguir creciendo profesionalmente, desarrollar soluciones escalables y aplicar tecnologías modernas tanto en frontend como en backend.
 
 ## 🚀 Tech Stack
 
-💙 Frontend: React · Angular · JavaScript · TypeScript
+💙 Frontend
+React · Angular · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap · Tailwind CSS
 
-⚙️ Backend: Node.js · Express
+⚙️ Backend
+Node.js · Express · .NET
 
-🗄️ Bases de datos: MySQL · PostgreSQL · MongoDB
+🗄️ Bases de Datos
+MySQL · PostgreSQL · MongoDB · SQLite · Supabase
 
-🛠️ Herramientas: Git · GitHub · Postman · Jira
+🛠️ Herramientas
+Git · GitHub · Postman · Jira · Trello
 
-### Otros Lenguajes
-Java • Python • C# • C++
+📚 Otros Lenguajes
+Java · Python · C# · C++
 
 ## 📫 Contacto
 
